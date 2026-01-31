@@ -87,7 +87,7 @@ const Home = () => {
             data-aos="fade-up"
             data-aos-duration="1000"
           >
-            Bangun Website, Belajar Coding, dan Konsultasi IT
+            Bangun Website, Belajar Coding, <br />dan Konsultasi IT
           </h1>
           <h2
             className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-700 mb-8"

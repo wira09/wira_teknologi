@@ -44,7 +44,7 @@ const About = () => {
                 Terpercaya & Profesional
               </h3>
               <p className="text-blue-200">
-                Tim ahli dengan pengalaman bertahun-tahun di bidang teknologi
+                Tim ahli dengan pengalaman di bidang teknologi
                 informasi.
               </p>
             </div>

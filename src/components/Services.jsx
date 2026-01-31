@@ -1,12 +1,5 @@
 import useAOS from "../hooks/useAOS";
 
-/*************  ✨ Windsurf Command 🌟  *************/
-/**
- * Services component
- *
- * This component renders the services section of the website.
- * It displays 4 services: joki tugas programming, konsultasi IT, pelatihan & training, and pembuatan website.
- */
 const Services = () => {
   useAOS();
 

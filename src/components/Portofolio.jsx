@@ -1,4 +1,3 @@
-import React from "react";
 import useAOS from "../hooks/useAOS";
 
 const Portofolio = () => {
@@ -76,7 +75,7 @@ const Portofolio = () => {
                   data-aos-duration="1000"
                 >
                   <p className="text-sm sm:text-base text-white leading-relaxed">
-                    Saya adalah seorang mahasiswa D3 di ASM Ariyanti dengan
+                    Saya adalah seorang mahasiswa D3 dengan
                     passion kuat dalam pengembangan teknologi, khususnya di
                     bidang web dan mobile development. Memiliki kemampuan
                     sebagai Full-Stack Developer dan Mobile Developer, saya
